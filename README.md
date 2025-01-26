@@ -1,4 +1,3 @@
-# WGU MSDA
 
 ![WGU Header](./images/wgu-logo-840x575_cropped.jpg)
 

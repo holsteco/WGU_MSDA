@@ -2,13 +2,12 @@
 
 ![WGU Header](./images/wgu-logo-840x575_cropped.jpg)
 
-This is my capstone project for Western Governors University (WGU) Masters of Science in Data Analytics (MSDA).
 
 # Data Analytics Journey and Capstone Project
 
-As I moved through my classes for WGU's MDSA two areas of Data Analytics continually fascinated me: data cleaning and Natural Language Processing (NLP). After spending a decade and a half implementing IT systems the saying "garbage in garbage out" never rang truer than when creating machine learning models. I could see firsthand how a model with unclean or bad data was executed, and then I could see the marked improvement in the model's performance with clean data. On the other end something about taking words, translating them to numbers, executing a model on those numbers to determine a prediction - something about that entire process just stuck with me.
+As I moved through my classes for Western Governors University (WGU) Masters of Science in Data Analytics (MDSA), two areas of Data Analytics continually fascinated me: data cleaning and Natural Language Processing (NLP). After spending over a decade implementing IT systems the saying, "garbage in garbage out" never rang truer than when creating machine learning models. I could see firsthand how a model with unclean or bad data was executed, and then I could see the marked improvement in the model's performance with clean data. On the other end something about taking words, translating them to numbers, executing a model on those numbers to determine a prediction - something about that entire process just stuck with me.
  
-For my capstone project I desired something to incorporated in large part these two elements and landed on: **Sentiment Analysis to Indicate Customer Satisfaction**. Or - how do we take the feedback we've received from customers in written form, determine if that feedback is positive/happy or negative/sad, and then over a large population of this feedback calculate an overall score on how positive/happy or negative/sad our customers view us?
+For my capstone project, I desired to create something to incorporate these two elements and landed on: **Sentiment Analysis to Indicate Customer Satisfaction**. Or - how do we take the feedback we've received from customers in written form, determine if that feedback is positive/happy or negative/sad, and then over a large population of this feedback calculate an overall score on how positive/happy or negative/sad our customers view us?
 
 In this repository you will find several documents:
 

@@ -3,7 +3,7 @@
 ![WGU Header](./images/wgu-logo-840x575_cropped.jpg)
 
 
-# Data Analytics Journey and Capstone Project
+# Data Analytics Capstone Project
 
 As I moved through my classes for Western Governors University (WGU) Masters of Science in Data Analytics (MDSA), two areas of Data Analytics continually fascinated me: data cleaning and Natural Language Processing (NLP). After spending over a decade implementing IT systems the saying, "garbage in garbage out" never rang truer than when creating machine learning models. I could see firsthand how a model with unclean or bad data was executed, and then I could see the marked improvement in the model's performance with clean data. On the other end something about taking words, translating them to numbers, executing a model on those numbers to determine a prediction - something about that entire process just stuck with me.
  
